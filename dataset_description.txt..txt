@@ -1,0 +1,21 @@
+Dataset name: CLINC150 (CLINC OOS Evaluation)
+
+
+
+File name: data_full.json
+
+
+
+Format: JSON
+
+
+
+Purpose: To train and evaluate a model that recognises the intent behind a user's sentence.
+
+
+
+Source: Official CLINC150 GitHub repository
+
+
+
+Project application: This dataset will support the intent-recognition part of an AI student-support chatbot. University-specific questions and answers will need a separate dataset.
