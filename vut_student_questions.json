@@ -1,0 +1,83 @@
+
+[
+  {
+    "text": "What are the admission requirements?",
+    "intent": "admission_requirements"
+  },
+  {
+    "text": "What do I need to qualify for admission?",
+    "intent": "admission_requirements"
+  },
+  {
+    "text": "How can I check my application status?",
+    "intent": "application_status"
+  },
+  {
+    "text": "Has my application been approved?",
+    "intent": "application_status"
+  },
+  {
+    "text": "How do I register for my course?",
+    "intent": "registration_help"
+  },
+  {
+    "text": "When does student registration open?",
+    "intent": "registration_help"
+  },
+  {
+    "text": "How much are the tuition fees?",
+    "intent": "tuition_fees"
+  },
+  {
+    "text": "Where can I find information about fees?",
+    "intent": "tuition_fees"
+  },
+  {
+    "text": "How do I apply for financial aid?",
+    "intent": "financial_aid"
+  },
+  {
+    "text": "Can I get help paying for my studies?",
+    "intent": "financial_aid"
+  },
+  {
+    "text": "When are the examinations?",
+    "intent": "exam_information"
+  },
+  {
+    "text": "Where can I find my exam timetable?",
+    "intent": "exam_information"
+  },
+  {
+    "text": "How do I apply for student accommodation?",
+    "intent": "student_accommodation"
+  },
+  {
+    "text": "Are there student residences?",
+    "intent": "student_accommodation"
+  },
+  {
+    "text": "Where is the university library?",
+    "intent": "library_services"
+  },
+  {
+    "text": "What library services are available?",
+    "intent": "library_services"
+  },
+  {
+    "text": "How do I access my student email?",
+    "intent": "student_email_support"
+  },
+  {
+    "text": "I cannot log into my student email.",
+    "intent": "student_email_support"
+  },
+  {
+    "text": "How can I contact the university?",
+    "intent": "contact_information"
+  },
+  {
+    "text": "Where can I find student support contacts?",
+    "intent": "contact_information"
+  }
+]
